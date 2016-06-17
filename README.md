@@ -1,7 +1,7 @@
 # AdminerDumpExcelCSV
 データベース管理ツール[Adminer](https://www.adminer.org)のプラグインです。
 
-日本語版 Microsoft Excel, Accessでロードしやすい形式のCSVでエクスポートします。
+日本語版 Microsoft Excel, Accessでインポートしやすい形式のCSVでエクスポートします。
 
 * 文字コードはcp932、改行コードはCR+LF
 * すべてのフィールドをダブルクオートで囲む
